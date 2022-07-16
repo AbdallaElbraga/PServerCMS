@@ -6,4 +6,4 @@ Documentation is at [https://kokspflanze.github.io/PServerCMS/](https://kokspfla
 
 `docsify serve docs`
 
-http://localhost:3000
+http://2.9.249.210:3000
